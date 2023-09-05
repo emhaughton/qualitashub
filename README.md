@@ -17,4 +17,4 @@ El resultado en caso exitoso se muestra en ```document.blade.php``` y en caso de
 De presentarse algún problema con la instalación escribir a ernesto.marcelino@outlook.com
 
 ## A mejorar
-1- El código css que está en ```mesage_error``` debe de estar en un fichero destinado para estilos.
+1- El código css que está en ```message_error``` debe de estar en un fichero destinado para estilos.
